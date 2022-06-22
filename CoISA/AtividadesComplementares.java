@@ -3,6 +3,9 @@ package CoISA;
 import java.util.ArrayList;
 import java.util.List;
 
+//Usando github
+
+
 /**
  * Registro de atividades complementares como: Estágios, projetos e Cursos, por
  * meio, dessa classe é possivel registrar tais atividades, bem como, calcular a
